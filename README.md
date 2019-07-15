@@ -1,3 +1,3 @@
 # stancon
 
-* COMING SOON *
+*COMING SOON*
